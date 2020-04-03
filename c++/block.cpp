@@ -1,0 +1,4 @@
+{
+	count <<"Hello world!";
+	return
+}
