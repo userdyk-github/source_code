@@ -1,4 +1,0 @@
-{
-	count <<"Hello world!";
-	return
-}
